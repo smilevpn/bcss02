@@ -17,7 +17,7 @@ h1 {
     font-family: 'Kurale', 'Arial Black', serif;
     font-weight: normal;
 }
-p {
+p, address {
     font-size: 1.25em;
     color: #616161;
     line-height: 150%;
